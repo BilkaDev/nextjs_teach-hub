@@ -1,6 +1,6 @@
 import { FC } from "react";
 
-import { Button } from "@/shared/uiElements/Button";
+import { Button } from "@/app/shared/uiElements/Button";
 
 interface PageProps {}
 
