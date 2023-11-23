@@ -1,7 +1,8 @@
 {
   "extends": [
     "next",
-    "prettier"
+    "prettier",
+    "plugin:storybook/recommended"
   ],
   "rules": {
     "import/order": [
